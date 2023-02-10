@@ -1,0 +1,25 @@
+div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    flex-direction: column;
+    color: orangered;
+
+}
+body{
+    background: #333;
+}
+input{
+    font-size: 18px;
+    font-weight: 700;
+    color: black;
+    border-radius: 8px;
+    cursor: pointer;
+    background: orangered;
+    width: 80px;
+    height: 30px;
+    border: none;
+    outline: none;
+
+}
